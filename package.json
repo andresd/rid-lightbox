@@ -20,7 +20,7 @@
         "type": "git",
         "url": "https://github.com/andresd/rid-lightbox.git"
     },
-    "author": "Andres Denkberg <andresd@ridoup.com>",
+    "author": "Andres Denkberg <andres.denkberg@gmail.com>",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/andresd/rid-lightbox/issues"
