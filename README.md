@@ -25,7 +25,6 @@
     );
 ```
 
-
 ## Available Props
 
 | Name | Type | Default | Description

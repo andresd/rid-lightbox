@@ -1,8 +1,8 @@
 {
-    "name": "lightbox",
+    "name": "rid-lightbox",
     "version": "0.1.0",
-    "description": "Images etc in Full Screen Lightbox Popovers for React Native",
-    "main": "LightBox.tsx",
+    "description": "Components in Full Screen Lightbox Popovers for React Native",
+    "main": "src/LightBox.tsx",
     "keywords": [
         "react-native",
         "react-component",
