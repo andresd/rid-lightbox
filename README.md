@@ -2,12 +2,12 @@
 
 ## Setup
 
-`npm install --save lightbox`
+`npm install --save rid-lightbox`
 
 ## Usage
 
 ```javascript
-    import {LightBox} from 'lightbox';
+    import {LightBox} from 'rid-lightbox';
 
     .
     .
