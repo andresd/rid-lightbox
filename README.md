@@ -1,5 +1,7 @@
 # lightbox
 
+A React Native Lightbox component inspired by [react-native-lightbox](https://github.com/oblador/react-native-lightbox)
+
 ## Setup
 
 `npm install --save rid-lightbox`
