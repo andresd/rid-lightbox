@@ -63,9 +63,8 @@ export const LightBox: FunctionComponent<ILightboxProps> = (props) => {
                         }),
                     }}>
                         {closeButton}
-                        <View style={{ flex: 1, justifyContent: 'center', marginLeft: -28 }}>
-                            {header}
-                        </View>
+                        <View style={{ width: 10 }} />
+                        {header}
                     </View>
                     <View style={[containerStyle, { justifyContent: 'center', alignItems: 'center' }]}>
                         {content}
