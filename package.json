@@ -18,14 +18,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://andresd@github.com/andresd/lightbox.git"
+        "url": "https://github.com/andresd/rid-lightbox.git"
     },
     "author": "Andres Denkberg <andresd@ridoup.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/andresd/lightbox/issues"
+        "url": "https://github.com/andresd/rid-lightbox/issues"
     },
-    "homepage": "https://github.com/andresd/lightbox",
+    "homepage": "https://github.com/andresd/rid-lightbox",
     "dependencies": {
         "@react-native-community/hooks": "^2.6.0",
         "react-native-modal": "^11.5.6",
