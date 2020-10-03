@@ -49,7 +49,7 @@ export const LightBox: FunctionComponent<ILightboxProps> = (props) => {
                 isVisible={isVisible}
                 backdropOpacity={1}
                 coverScreen
-                swipeDirection={swipeable ? ['up', 'down', 'left', 'right'] : undefined}
+                swipeDirection={swipeable ? ['up', 'down'] : undefined}
                 onSwipeComplete={() => setIsVisible(false)}
                 swipeThreshold={50}>
                 <View style={{ flexDirection: 'column', flex: 1, justifyContent: 'center' }}>
